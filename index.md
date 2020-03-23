@@ -10,7 +10,7 @@ https://www.ncbi.nlm.nih.gov/pubmed/31986165
  
 
 Chinese expert:
-https://www.youtube.com/watch?v=F5YVufqV8rs
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=F5YVufqV8rs)
 
 Voice loudness & droplets:
 https://www.nature.com/articles/s41598-019-38808-z.pdf
