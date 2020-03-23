@@ -10,6 +10,8 @@
 
 [Voice loudness & droplets](https://www.nature.com/articles/s41598-019-38808-z.pdf)
 
+[Social Distancing explained by BBC News](https://www.bbc.com/news/av/embed/p0873n8r/51966112)
+
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ## Welcome to GitHub Pages
