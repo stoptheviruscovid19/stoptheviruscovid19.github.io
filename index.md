@@ -2,15 +2,25 @@
 
 ### Further Reading
 
+[MIT sneeze lab](https://lbourouiba.mit.edu/video/nothing-sneeze)
+
+[MIT sneeze video](https://slate.com/human-interest/2014/04/mit-sneeze-study-new-research-shows-sneezes-can-travel-up-to-200-feet.html)
+
 [Dependence on loudness](https://www.ncbi.nlm.nih.gov/pubmed/30787335)
  
 [Different sounds (56 volunteers)](https://www.ncbi.nlm.nih.gov/pubmed/31986165)
+ 
+[Singapore expert](https://www.youtube.com/watch?v=F5YVufqV8rs)
 
-[Chinese expert](https://www.youtube.com/watch?v=F5YVufqV8rs)
+[CDC flu transmission](https://www.cdc.gov/flu/about/disease/spread.htm)
 
 [Voice loudness & droplets](https://www.nature.com/articles/s41598-019-38808-z.pdf)
 
 [Social Distancing explained by BBC News](https://www.bbc.com/news/av/embed/p0873n8r/51966112)
+
+
+
+
 
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
