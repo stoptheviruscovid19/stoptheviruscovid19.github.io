@@ -1,6 +1,6 @@
 ## Stop the virus COVID-19
 
-### Further Reading
+### Further reading and viewing
 
 [MIT sneeze lab](https://lbourouiba.mit.edu/video/nothing-sneeze)
 
