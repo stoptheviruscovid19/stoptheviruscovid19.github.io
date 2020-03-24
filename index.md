@@ -20,6 +20,17 @@
 
 [Airborne spread of infectious agents in the indoor environment](files/Airborne_spread.pdf)
 
+[Respiratory Protection for Healthcare Workers in the Workplace Against Novel H1N1 Influenza A: A Letter Report (2009)](files/IOM_H1N1.pdf)
+
+[Infectious virus in exhaled breath of symptomatic seasonal influenza cases from a college community](files/Influenza_PNAS_2017.full.pdf)
+
+[Exhaled droplets due to talking and coughing](files/RoySocInterface.pdf)
+
+[Characterization of expiration air jets and droplet size distributions immediately at the mouth opening](files/droplet_size.pdf)
+
+[THE SIZE AND THE DURATION OF AIR-CARRIAGE OF RESPIRATORY DROPLETS AND DROPLET-NUCLEI](files/droplet_size_duration.pdf	)
+
+[Simple Respiratory Protection—Evaluation of the Filtration Performance of Cloth Masks and Common Fabric Materials Against 20–1000 nm Size Particles](files/ultra_small.pdf)
 
 
 
