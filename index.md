@@ -1,5 +1,11 @@
 ## Stop the virus COVID-19
 
+Infection by a respiratory disease such as coronavirus is known to be dominated by saliva.
+
+Laser video images are shown to illustrate that speaking generates saliva droplets that can either be inhaled by others, or land on surfaces where they can be picked up by others in the absence of good hygiene.
+
+Limiting emission of speech generated saliva droplets should be a prime opportunity to stop the pandemic.
+
 ### Further reading and viewing
 
 [MIT sneeze lab](https://lbourouiba.mit.edu/video/nothing-sneeze)
