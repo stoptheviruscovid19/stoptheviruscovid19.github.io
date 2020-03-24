@@ -18,7 +18,7 @@
 
 [Social Distancing explained by BBC News](https://www.bbc.com/news/av/embed/p0873n8r/51966112)
 
-
+[Airborne spread of infectious agents in the indoor environment](files/Airborne_spread.pdf)
 
 
 
